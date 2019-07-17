@@ -21,6 +21,8 @@
         android:id="@+id/button"
         android:layout_width="129dp"
         android:layout_height="75dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
         android:text="Button"
         tools:layout_editor_absoluteX="141dp"
         tools:layout_editor_absoluteY="216dp" />
